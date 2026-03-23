@@ -1,6 +1,6 @@
 {
     "id": 217,
-    "name": "ElectroGeist",
+    "name": "Seventeen 38",
     "author": "IcyDoodles",
     "creators": [ ],
     "verifier": "IcyDoodles",
@@ -9,10 +9,14 @@
     "password": "Free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "GWtablet",
+            "link": " ",
             "percent": 100,
-            "hz": 360
+            "hz": 240
+                 "user": "AtomiX",
+            "link": " ",
+            "percent": 56,
+            "hz": 240
         }
     ]
 }
